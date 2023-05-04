@@ -14,17 +14,17 @@
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.scrollmenu a:hover {
   background-color: #ddd;
   color: black;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.scrollmenu a.active {
   background-color: #04AA6D;
   color: white;
 }
-div.topnav a:hover {
+div.scrollmenu a:hover {
   background-color: #777;
 }
 div.scrollmenu {
